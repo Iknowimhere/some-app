@@ -9,3 +9,6 @@ function helper() {
 function utility() {
   console.log("This is a utility function");
 }
+function index() {
+  console.log("This is the index function");
+}
